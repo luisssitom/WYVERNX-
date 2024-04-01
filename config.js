@@ -2,13 +2,14 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
-global.owner = [
-  ['528714020666', 'Wyv', true],
-  ['528714017792']
+global.owner = [ '528714020666', 'WYV', true]
+  [ '5218714017792', 'Łuisssito', true ],
+  [ '5215534215245', 'ඞ 𝐿.𝐴𝑛 ༆', true ]
+]
 ] //Numeros de owner 
 
-global.mods = [''] 
-global.prems = ['528714017782', '8714020666']
+global.mods = [ '528714017792' ] 
+global.prems = [ '528714017782', '528714020666']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -20,22 +21,22 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Senna┃ᴮᴼᵀ' 
-global.author = '@fg98' 
+global.packname = 'Wyvernx┃ᴮᴼᵀ' 
+global.author = '@luisssitom' 
 
 //--info FG
 global.botName = 'WYVERNX'
-global.fgig = 'https://www.instagram.com/fg98_ff' 
+global.fgig = 'https://www.instagram.com/luisssitom' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
+global.fgyt = 'https://youtube.com/luisssitom'
 global.fgpyp = 'https://paypal.me/fg98f'
 global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs' 
 
 //--- Grupos WA
-global.fgcanal = 'https://whatsapp.com/channel/0029VaCeuZd6mYPQiWqxXj1F'
-global.bgp = 'https://chat.whatsapp.com/BESBo5xjvIZE4YVvth6Yzr'
-global.bgp2 = 'https://chat.whatsapp.com/I7bvd8XCAOUHjgkHteqFC7'
-global.bgp3 = 'https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH' //--GP NSFW
+global.fgcanal = 'deleted'
+global.bgp = 'deleted'
+global.bgp2 = 'deleted'
+global.bgp3 = 'deleted' //--GP NSFW
 
 global.wait = '⌛ _Cargando..._\n*▬▬▬▭*'
 global.rwait = '⌛'
